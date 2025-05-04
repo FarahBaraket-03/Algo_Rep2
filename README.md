@@ -11,8 +11,12 @@ gcc tp.c -o tp
 ./tp 3
 
 ```
-le même commendes pour les autres programmes
+le même commendes pour les autres programmes.
+
+
 <strong>Resultat :</strong>
+
+
 Horloge Scalaire : 
 
 ![494572428_2041325499687272_668288047161556740_n](https://github.com/user-attachments/assets/01619fe1-4eb6-4b9d-b318-5e07db527628)
